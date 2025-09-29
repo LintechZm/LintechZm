@@ -14,29 +14,8 @@ and developing impactful tech projects for businesses and communities.
 
 ---
 
-### 💻 Tech Stack  
-Our products are powered by modern tools and technologies:  
-
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![React Native](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
-![Firebase](https://icongr.am/devicon/firebase-plain.svg?size=50&color=currentColor)
-![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=54&color=currentColor)
-![Bootstrap](https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=currentColor)
-
----
-
-### 📊 GitHub Stats  
-
-[![LintechZm's GitHub stats](https://github-readme-stats.vercel.app/api?username=LintechZm&show_icons=true&theme=dracula)](https://github.com/LintechZm/github-readme-stats)  
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kayonga99&theme=radical" alt="LintechZm stats" /></p>
-
----
 
 ### 📫 Connect With Us  
 - 🌐 Website: *(coming soon)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kayongac/)  
-- 🐦 [Twitter](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)  
+- 💼 [LinkedIn](https://www.linkedin.com/company/lintechzm)  
+- X [X](https://www.x.com/lintechzm)  
