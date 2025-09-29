@@ -16,6 +16,6 @@ and developing impactful tech projects for businesses and communities.
 
 
 ### 📫 Connect With Us  
-- 🌐 Website: *(coming soon)*  
+- 🌐 [Website:]( https://www.lintechzm.com)
 - 💼 [LinkedIn](https://www.linkedin.com/company/lintechzm)  
 - X [X](https://www.x.com/lintechzm)  
